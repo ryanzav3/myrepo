@@ -1,5 +1,7 @@
 body {
-background-color: #33DAFF;
-color: #70003D;
-font-family: arial, helvetica, sans-serif;
+background-color: #FFC300;
+color: #900C3F;
+font-family: sans-serif;
 }
+
+span.junkFood{color: red;}
